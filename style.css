@@ -1,0 +1,12 @@
+body {
+  background:url('explore.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+  margin:50px;
+  font-size: 40px;
+
+}
+img {
+  margin:auto;
+}
